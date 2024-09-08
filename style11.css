@@ -1,0 +1,42 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+  
+    background-color: #1f1515;
+    color: #d0d82a;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+  }
+
+  h2 {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .about_student>section>h2 {
+    text-align: left;
+    font-size: 24px;
+    color: green;
+  }
+
+  .about_student section ul li {
+    text-align: justify;
+    font-style: italic;
+    line-height: 30px;
+
+  }
+
+  .about_student section p {
+    text-align: justify;
+    font-style: italic;
+    line-height: 30px;
+  }
